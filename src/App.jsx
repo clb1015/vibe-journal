@@ -196,9 +196,8 @@ export default function App() {
     </div>
   );
 }
-```
 
 ### **Step 5: Publish It!**
 1.  In the Terminal, type:
-    ```bash
+    bash
     git add . && git commit -m "Setup Journal" && git push
