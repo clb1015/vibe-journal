@@ -197,7 +197,3 @@ export default function App() {
   );
 }
 
-### **Step 5: Publish It!**
-1.  In the Terminal, type:
-    bash
-    git add . && git commit -m "Setup Journal" && git push
